@@ -7,7 +7,7 @@
 ![HakiosR's GitHub stats](https://github-readme-stats.vercel.app/api?username=HakiosR&show_icons=true&theme=dracula&locale=fr)
 
 ### 🔥 Langages les plus utilisés
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudo&layout=compact&langs_count=8&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HakiosR&layout=compact&langs_count=8&theme=dark)
 
 ### 💻 Technologies et Outils
 <p>
