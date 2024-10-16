@@ -9,6 +9,7 @@
 <a href="https://instagram.com/louis_blanl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="louis_blanl" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">About me:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakiosr&show_icons=true&locale=en&layout=compact" alt="hakiosr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hakiosr&show_icons=true&locale=en" alt="hakiosr" /></p>
